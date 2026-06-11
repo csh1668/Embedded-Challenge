@@ -1,5 +1,8 @@
 # 임베디드 챌린지 — 자율주행 미로 탈출 로봇
 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/2e0235e8-1ca3-40c0-935b-90512e4d993a" />
+
+
 > 임베디드소프트웨어 01반 · 팀 13
 >
 > | 학부 | 학번 | 이름 |
