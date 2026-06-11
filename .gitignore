@@ -1,0 +1,48 @@
+# Build logs
+*.log
+
+# Keil MDK-ARM (uVision)
+output/
+output.zip
+*.uvguix
+*.uvguix.*
+*.scvd
+*.iex
+*.o
+*.crf
+*.d
+*.axf
+*.htm
+*.lnp
+*.lst
+*.map
+*.dep
+*.bak
+*.sct
+JLinkLog.txt
+JLinkSettings.ini
+DebugConfig/
+RTE/
+EventRecorderStub.scvd
+
+# Build outputs
+*.hex
+*.bin
+*.elf
+
+# IAR EWARM
+settings/
+Debug/
+Release/
+*.dni
+*.wsdt
+*.dbgdt
+
+# TrueSTUDIO / Eclipse
+.metadata/
+.settings/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
